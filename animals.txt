@@ -1,0 +1,10 @@
+wolf
+dog
+cat
+tiger
+mouse
+bird
+snake
+monkey
+goose
+duck
