@@ -8,3 +8,4 @@ snake
 monkey
 goose
 duck
+squirrel
